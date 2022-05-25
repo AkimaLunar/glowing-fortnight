@@ -137,6 +137,9 @@ const IndexPage = () => {
         🎉🎉🎉
       </h1>
       <p style={paragraphStyles}>
+        I am going to add this paragraph here.
+      </p>
+      <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.tsx</code> to see this page
         update in real-time. 😎
       </p>
